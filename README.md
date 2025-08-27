@@ -34,5 +34,3 @@ A data analytics project to analyze and forecast stock market trends using Time 
 
 ---
 
-## 📂 Folder Structure
-
